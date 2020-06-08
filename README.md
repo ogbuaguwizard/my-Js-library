@@ -1,0 +1,3 @@
+# my-Js-library
+this basically for practice purpose, the library would contain ARRAY methods, Math Object method...
+Nothing new
